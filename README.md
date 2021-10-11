@@ -17,6 +17,10 @@
 </p>
 
 <p align="center">
+  <a href="httsp://github.com/ianvanh/dbot-api">
+    <img src="https://img.shields.io/github/repo-size/ianvanh/dbot-api?color=purple&label=Peso%20Repositorio&style=plastic">
+
+  </a>
   <a href="https://github.com/ianvanh/dbot-api">
     <img src="https://img.shields.io/github/languages/top/ianvanh/dbot-api?color=yellow&label=Javascript&style=plastic">
 
@@ -47,7 +51,7 @@ dbot.liric(name)
 ## ```Wallpaper```
 ``` 
 const dbot = require('dbot-api');
-const name = '#'
+const name = 'car'
 
 dbot.wallpaper(name)
     .then(result => {
@@ -58,7 +62,7 @@ dbot.wallpaper(name)
 ## ```Play Store```
 ``` 
 const dbot = require('dbot-api');
-const name = '#'
+const name = 'Free Fire'
 
 dbot.playstore(name)
     .then(result => {
@@ -69,7 +73,7 @@ dbot.playstore(name)
 ## ```Pinterest```
 ``` 
 const dbot = require('dbot-api');
-const name = '#'
+const name = 'Car'
 
 dbot.pinterest(name)
     .then(result => {
@@ -80,7 +84,7 @@ dbot.pinterest(name)
 ## ```IG Downloader```
 ``` 
 const dbot = require('dbot-api');
-const link = '#'
+const link = 'https://www.instagram.com/p/CRZEOrUHtiI/'
 
 dbot.igdl(link)
     .then(result => {
@@ -92,7 +96,7 @@ dbot.igdl(link)
 ## ```IG Story```
 ``` 
 const dbot = require('dbot-api');
-const username = '#'
+const username = 'dopeshuffles'
 
 dbot.igstory(username)
     .then(result => {
@@ -102,7 +106,7 @@ dbot.igstory(username)
 ## ```IG Stalk```
 ``` 
 const dbot = require('dbot-api');
-const username = '#'
+const username = 'iand_tv'
 
 dbot.igstalk(username)
     .then(result => {
@@ -135,7 +139,7 @@ dbot.fbdown(link)
 ## ```Youtube Downloader```
 ``` 
 const dbot = require('dbot-api');
-const link = '#'
+const link = 'https://www.youtube.com/watch?v=BjYWwZYLYEs'
 
 dbot.youtube(link)
     .then(result => {
