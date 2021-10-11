@@ -1,5 +1,5 @@
 const {
-	lirik,
+	liric,
 	wallpaper,
 	playstore,
 	pinterest,
@@ -12,7 +12,7 @@ const {
 	ttdownloader
 } = require('./lib/function')
 
-module.exports.lirik = lirik
+module.exports.liric = liric
 module.exports.wallpaper = wallpaper
 module.exports.playstore = playstore
 module.exports.pinterest = pinterest
