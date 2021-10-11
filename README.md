@@ -17,10 +17,6 @@
 </p>
 
 <p align="center">
-  <a href="httsp://github.com/ianvanh/dbot-api">
-    <img src="https://img.shields.io/github/repo-size/ianvanh/dbot-api?color=purple&label=Peso%20Repositorio&style=plastic">
-
-  </a>
   <a href="https://github.com/ianvanh/dbot-api">
     <img src="https://img.shields.io/github/languages/top/ianvanh/dbot-api?color=yellow&label=Javascript&style=plastic">
 
